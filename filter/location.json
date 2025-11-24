@@ -1,7 +1,7 @@
 [
   {
-    cidade: "São Paulo",
-    bairros: [
+    "cidade": "São Paulo",
+    "bairros": [
       "Bela Vista",
       "Itaim Bibi",
       "Jardins",
@@ -9,8 +9,8 @@
     ]
   },
   {
-    cidade: "Itapecerica da Serra",
-    bairros: [
+    "cidade": "Itapecerica da Serra",
+    "bairros": [
       "Centro"
     ]
   }
