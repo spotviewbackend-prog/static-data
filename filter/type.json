@@ -1,7 +1,7 @@
 [
   {
-    tipo: "Comercial",
-    subtipo: [
+    "tipo": "Comercial",
+    "subtipo": [
       "Escritório",
       "Galpão / Depósito"
       "Loja",
@@ -9,8 +9,8 @@
     ]
   },
   {
-    tipo: "Residencial",
-    subtipo: [
+    "tipo": "Residencial",
+    "subtipo": [
       "Apartamento",
       "Casa",
       "Aluguel por Temporada",
