@@ -3,9 +3,9 @@
     "tipo": "Comercial",
     "subtipo": [
       "Escritório",
-      "Galpão / Depósito"
+      "Galpão / Depósito",
       "Loja",
-      "Sala Comercial",
+      "Sala Comercial"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "subtipo": [
       "Apartamento",
       "Casa",
-      "Aluguel por Temporada",
+      "Aluguel por Temporada"
     ]
   }
 ]
