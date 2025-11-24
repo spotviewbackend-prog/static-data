@@ -1,0 +1,17 @@
+[
+  {
+    cidade: "São Paulo",
+    bairros: [
+      "Bela Vista",
+      "Itaim Bibi",
+      "Jardins",
+      "Vila Madalena",
+    ]
+  },
+  {
+    cidade: "Itapecerica da Serra",
+    bairros: [
+      "Centro"
+    ]
+  }
+]
