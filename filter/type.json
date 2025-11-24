@@ -11,9 +11,9 @@
   {
     "tipo": "Residencial",
     "subtipo": [
+      "Aluguel por Temporada",
       "Apartamento",
-      "Casa",
-      "Aluguel por Temporada"
+      "Casa"
     ]
   }
 ]
