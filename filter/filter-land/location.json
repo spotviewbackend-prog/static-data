@@ -1,7 +1,7 @@
 [
   {
     "cidade": "São Paulo",
-    "bairros": [
+    "bairro": [
       "Bela Vista",
       "Itaim Bibi",
       "Jardins",
@@ -10,14 +10,14 @@
   },
   {
     "cidade": "Itapecerica da Serra",
-    "bairros": [
+    "bairro": [
       "Centro",
       "Parque Paraíso"
     ]
   },
   {
     "cidade": "Alfenas",
-    "bairros": [
+    "bairro": [
       "Jardim Aeroporto"
     ]
   }
