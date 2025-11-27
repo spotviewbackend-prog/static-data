@@ -1,0 +1,9 @@
+{
+  "zoneamento": [
+    "Residencial",
+    "Comercial",
+    "Industrial",
+    "Misto",
+    "Rural"
+  ]
+}
