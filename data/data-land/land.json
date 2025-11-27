@@ -14,7 +14,8 @@
     "complemento": "algum complemento",
     "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
     "zoneamento": "Residencial",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277171
   },
   {
     "id": "e92c3dc4-5c9a-4c87-91af-83c2b7e1fb11",
@@ -31,7 +32,8 @@
     "complemento": "Próximo à Av. Faria Lima",
     "imagem_capa": "",
     "zoneamento": "Comercial",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277109
   },
   {
     "id": "7b2e99ac-b7bb-443c-9f90-a5c843f1c712",
@@ -48,7 +50,8 @@
     "complemento": "",
     "imagem_capa": "",
     "zoneamento": "Misto",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277122
   },
   {
     "id": "a4d8791b-80fa-4625-866f-baa3d3514c2a",
@@ -65,7 +68,8 @@
     "complemento": "",
     "imagem_capa": "",
     "zoneamento": "Comercial",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277133
   },
   {
     "id": "dd8ed872-9220-4ef8-a02e-0883eb174b80",
@@ -82,7 +86,8 @@
     "complemento": "",
     "imagem_capa": "",
     "zoneamento": "Residencial",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277143
   },
   {
     "id": "32dbb77f-4737-48cf-b7e2-71a0c9ce4e01",
@@ -99,7 +104,8 @@
     "complemento": "",
     "imagem_capa": "",
     "zoneamento": "Rural",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277156
   },
   {
     "id": "fc11bf9d-2b9a-441c-b2f8-03a7c0d9e978",
@@ -116,6 +122,7 @@
     "complemento": "Vista parcial da represa",
     "imagem_capa": "",
     "zoneamento": "Residencial",
-    "disponivel": true
+    "disponivel": true,
+    "timestamp": 1764277165
   }
 ]
