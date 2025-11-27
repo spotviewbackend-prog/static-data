@@ -19,6 +19,7 @@
     "bloco": "",
     "unidade": "103",
     "andar": "10",
+    "valor_aluguel": 5000,
     "timestamp": 1764009508
   },
   {
@@ -41,6 +42,7 @@
     "bloco": "",
     "unidade": "41",
     "andar": "4",
+    "valor_aluguel": 2000,
     "timestamp": 1764009586
   },
   {
@@ -63,6 +65,7 @@
     "bloco": "",
     "unidade": "18",
     "andar": "1",
+    "valor_aluguel": 3000,
      "timestamp": 1764074835
   },
   {
@@ -85,6 +88,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 4200,
     "timestamp": 1764009626
   },
   {
@@ -107,6 +111,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009640
   },
   {
@@ -129,6 +134,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009662
   },
   {
@@ -151,6 +157,7 @@
     "bloco": "A",
     "unidade": "101",
     "andar": "1",
+    "valor_aluguel": 5000,
     "timestamp": 1764009677
   },
   {
@@ -173,6 +180,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009694
   },
   {
@@ -195,6 +203,7 @@
     "bloco": "",
     "unidade": "101",
     "andar": "1",
+    "valor_aluguel": 5000,
     "timestamp": 1764009710
   },
   {
@@ -217,6 +226,7 @@
     "bloco": "B",
     "unidade": "14",
     "andar": "-1",
+    "valor_aluguel": 5000,
     "timestamp": 1764009723
   },
   {
@@ -239,6 +249,7 @@
     "bloco": "B",
     "unidade": "12",
     "andar": "1",
+    "valor_aluguel": 5000,
     "timestamp": 1764009735
   },
   {
@@ -261,6 +272,7 @@
     "bloco": "B",
     "unidade": "24",
     "andar": "2",
+    "valor_aluguel": 5000,
     "timestamp": 1764009746
   },
   {
@@ -283,6 +295,7 @@
     "bloco": "B",
     "unidade": "1",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009761
   },
   {
@@ -305,6 +318,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009774
   },
   {
@@ -327,6 +341,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009792
   },
   {
@@ -349,6 +364,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009808
   },
   {
@@ -371,6 +387,7 @@
     "bloco": "",
     "unidade": "",
     "andar": "T",
+    "valor_aluguel": 5000,
     "timestamp": 1764009819
   }
 ]
