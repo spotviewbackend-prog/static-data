@@ -1,0 +1,79 @@
+{
+  "id": "3f7c2b82-6f3e-4b58-9df3-1c98ea1f4c12",
+  "dimensao_frente": [
+    {
+      "id": "1",
+      "rua": "Av. Paulista",
+      "comprimento": 15,
+      "descricao": "Frente principal"
+    },
+    {
+      "id": "2",
+      "rua": "Avenida Central",
+      "comprimento": 25,
+      "descricao": "Lateral esquerda"
+    }
+  ],
+  "bloco": "A",
+  "unidade": "101",
+  "topografia": "Plano",
+  "terraplanado": true,
+  "tipo_solo": "Argiloso",
+  "indice_aproveitamento": 1.5,
+  "taxa_ocupacao": 40,
+  "descricao": "Excelente terreno pronto para construir, localizado em área nobre do condomínio.",
+  "agua_encanada": true,
+  "rede_esgoto": true,
+  "energia_eletrica": true,
+  "iluminacao_publica": true,
+  "internet_fibra": true,
+  "asfalto": true,
+  "calcadas": true,
+  "drenagem_pluvial": true,
+  "escritura_ok": true,
+  "matricula_regular": true,
+  "iptu_em_dia": true,
+  "sem_dividas": true,
+  "pronto_transferir": true,
+  "planta_baixa_url": "https://media.istockphoto.com/id/912482942/pt/foto/architectural-project-engineering-tools-on-table.jpg?s=2048x2048&w=is&k=20&c=jYN4SiMPTxKqU4Q422JgUxDBgTreQ4W9amfMEz_nhfk=",
+  "imagem_360": {
+    "id": "img-1a",
+    "name": "Vista principal",
+    "url": "https://media.istockphoto.com/id/1282518866/pt/foto/3d-rendering-of-modern-house-in-luxurious-style.jpg?s=2048x2048&w=is&k=20&c=7_csy0G_x7oKAqiG89FC03rkfU-8t2qap92Hgvr7YX0=",
+    "posicaoMapaPx": {
+      "posicao_x": 220,
+      "posicao_y": 140
+    },
+    "markers": [
+      {
+        "type": "polyline",
+        "id": "1",
+        "visible": true,
+        "polyline": [
+          [0.1, 0.2],
+          [0.2, 0.3],
+          [0.3, 0.25]
+        ],
+        "svgStyle": {
+          "fill": "none",
+          "stroke": "#f59e0b",
+          "strokeWidth": "5",
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round"
+        },
+        "tooltip": "Divisa lateral"
+      },
+      {
+        "type": "html",
+        "id": "2",
+        "visible": true,
+        "opacity": 0.7,
+        "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">5m</div>",
+        "position": {
+          "yaw": 30,
+          "pitch": -10
+        }
+      }
+    ]
+  }
+}
