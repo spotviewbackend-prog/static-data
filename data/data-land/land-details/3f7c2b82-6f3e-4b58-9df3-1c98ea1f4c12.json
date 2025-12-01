@@ -48,32 +48,58 @@
     },
     "markers": [
       {
-        "type": "polyline",
+        "type": "polygon",
         "id": "1",
-        "visible": true,
+        "polygon": [
+          [
+            6.2208,
+            0.0906
+          ],
+          [
+            0.0443,
+            0.1028
+          ]
+        ],
+        "svgStyle": {
+          "fill": "rgba(200, 0, 0, 0.2)",
+          "stroke": "rgba(247, 252, 0, 0.8)",
+          "strokeWidth": "2px",
+          "strokeLinecap": "butt",
+          "strokeLinejoin": "miter"
+        },
+        "visible": false
+      },
+      {
+        "type": "polyline",
+        "id": "2",
         "polyline": [
-          [0.1, 0.2],
-          [0.2, 0.3],
-          [0.3, 0.25]
+          [
+            2.4,
+            0.4
+          ],
+          [
+            3,
+            0.54
+          ]
         ],
         "svgStyle": {
           "fill": "none",
-          "stroke": "#f59e0b",
-          "strokeWidth": "5",
+          "stroke": "rgba(217, 255, 0, 0.8)",
+          "strokeWidth": "5px",
           "strokeLinecap": "round",
           "strokeLinejoin": "round"
         },
-        "tooltip": "Divisa lateral"
+        "visible": false
       },
       {
         "type": "html",
-        "id": "2",
-        "visible": true,
-        "opacity": 0.7,
-        "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">5m</div>",
+        "id": "3",
+        "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">1 m</div>",
+        "opacity": 0.5,
+        "visible": false,
         "position": {
-          "yaw": 30,
-          "pitch": -10
+          "yaw": 2.75,
+          "pitch": 0.50
         }
       }
     ]
