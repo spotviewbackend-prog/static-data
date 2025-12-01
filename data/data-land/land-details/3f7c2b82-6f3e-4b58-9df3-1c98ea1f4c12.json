@@ -4,14 +4,14 @@
     {
       "id": "1",
       "rua": "Av. Paulista",
-      "comprimento": 15,
-      "descricao": "Frente principal"
+      "comprimento": 25,
+      "descricao": "Testada principal"
     },
     {
       "id": "2",
       "rua": "Avenida Central",
-      "comprimento": 25,
-      "descricao": "Lateral esquerda"
+      "comprimento": 15,
+      "descricao": "Testada lateral esquerda"
     }
   ],
   "bloco": "A",
