@@ -13,7 +13,10 @@
     "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.56487,
     "longitude": -46.65193,
     "bloco": "",
@@ -36,7 +39,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "alugado",
+      "alugado_ate": "02/2026"
+    },
     "latitude": -23.56487,
     "longitude": -46.65193,
     "bloco": "",
@@ -59,7 +65,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
     "tipo": "Comercial",
     "subtipo": "Restaurante",
-    "disponivel": true,
+    "status": {
+      "situacao": "alugado",
+      "alugado_ate": "05/2026"
+    },
     "latitude": -23.56309,
     "longitude": -46.66555,
     "bloco": "",
@@ -82,7 +91,10 @@
     "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Restaurante",
-    "disponivel": true,
+    "status": {
+      "situacao": "indisponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.55366,
     "longitude": -46.68886,
     "bloco": "",
@@ -105,7 +117,10 @@
     "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.56487,
     "longitude": -46.65193,
     "bloco": "",
@@ -128,7 +143,10 @@
     "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.56225,
     "longitude": -46.66430,
     "bloco": "",
@@ -151,7 +169,10 @@
     "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Escritório",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.58266,
     "longitude": -46.68427,
     "bloco": "A",
@@ -174,7 +195,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71704,
     "longitude": -46.84865,
     "bloco": "",
@@ -197,7 +221,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
     "tipo": "Comercial",
     "subtipo": "Restaurante",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71663,
     "longitude": -46.85078,
     "bloco": "",
@@ -220,7 +247,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
     "tipo": "Comercial",
     "subtipo": "Escritório",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71622,
     "longitude": -46.85062,
     "bloco": "B",
@@ -243,7 +273,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
     "tipo": "Comercial",
     "subtipo": "Escritório",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71622,
     "longitude": -46.85062,
     "bloco": "B",
@@ -266,7 +299,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
     "tipo": "Comercial",
     "subtipo": "Escritório",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71622,
     "longitude": -46.85062,
     "bloco": "B",
@@ -289,7 +325,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
     "tipo": "Comercial",
     "subtipo": "Escritório",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71622,
     "longitude": -46.85062,
     "bloco": "B",
@@ -312,7 +351,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
     "tipo": "Comercial",
     "subtipo": "Galeria",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71693,
     "longitude": -46.84944,
     "bloco": "",
@@ -335,7 +377,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.71788,
     "longitude": -46.84950,
     "bloco": "",
@@ -358,7 +403,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.73169,
     "longitude": -46.75958,
     "bloco": "",
@@ -381,7 +429,10 @@
     "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
     "tipo": "Comercial",
     "subtipo": "Loja",
-    "disponivel": true,
+    "status": {
+      "situacao": "disponivel",
+      "alugado_ate": null
+    },
     "latitude": -23.73169,
     "longitude": -46.75954,
     "bloco": "",
