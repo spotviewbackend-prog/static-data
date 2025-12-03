@@ -1,0 +1,14 @@
+[
+  {
+    "value": "disponivel",
+    "label": "Disponível"
+  },
+  {
+    "value": "alugado",
+    "label": "Alugado"
+  },
+  {
+    "value": "indisponivel",
+    "label": "Indisponível"
+  }
+]
