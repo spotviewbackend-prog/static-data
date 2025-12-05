@@ -23,6 +23,7 @@
     "unidade": "103",
     "andar": "10",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009508
   },
   {
@@ -49,6 +50,7 @@
     "unidade": "41",
     "andar": "4",
     "valor_aluguel": 2000,
+    "valor_iptu": 130,
     "timestamp": 1764009586
   },
   {
@@ -75,6 +77,7 @@
     "unidade": "18",
     "andar": "1",
     "valor_aluguel": 3000,
+    "valor_iptu": 180,
      "timestamp": 1764074835
   },
   {
@@ -101,6 +104,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 4200,
+    "valor_iptu": 500,
     "timestamp": 1764009626
   },
   {
@@ -127,6 +131,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 200,
     "timestamp": 1764009640
   },
   {
@@ -153,6 +158,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009662
   },
   {
@@ -179,6 +185,7 @@
     "unidade": "101",
     "andar": "1",
     "valor_aluguel": 5000,
+    "valor_iptu": 120,
     "timestamp": 1764009677
   },
   {
@@ -205,6 +212,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 90,
     "timestamp": 1764009694
   },
   {
@@ -231,6 +239,7 @@
     "unidade": "101",
     "andar": "1",
     "valor_aluguel": 5000,
+    "valor_iptu": 120,
     "timestamp": 1764009710
   },
   {
@@ -257,6 +266,7 @@
     "unidade": "14",
     "andar": "-1",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009723
   },
   {
@@ -283,6 +293,7 @@
     "unidade": "12",
     "andar": "1",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009735
   },
   {
@@ -309,6 +320,7 @@
     "unidade": "24",
     "andar": "2",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009746
   },
   {
@@ -335,6 +347,7 @@
     "unidade": "1",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009761
   },
   {
@@ -361,6 +374,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009774
   },
   {
@@ -387,6 +401,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009792
   },
   {
@@ -413,6 +428,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009808
   },
   {
@@ -439,6 +455,7 @@
     "unidade": "",
     "andar": "T",
     "valor_aluguel": 5000,
+    "valor_iptu": 230,
     "timestamp": 1764009819
   }
 ]
