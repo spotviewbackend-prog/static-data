@@ -13,12 +13,12 @@
                     "name": "Sala",
                     "url": "https://cdn.polyhaven.com/asset_img/primary/satara_night.png?height=760&quality=95",
                     "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 40
+                        "posicao_x": 27,
+                        "posicao_y": 35
                     },
                     "posicaoMapaPx": {
-                        "posicao_x": 540,
-                        "posicao_y": 390
+                        "posicao_x": 400,
+                        "posicao_y": 420
                     },
                     "links": [
                         {
@@ -57,12 +57,12 @@
                     "name": "Cozinha",
                     "url": "https://cdn.polyhaven.com/asset_img/primary/lilienstein.png?height=760&quality=95",
                     "posicaoPlantPorc": {
-                        "posicao_x": 65,
-                        "posicao_y": 52
+                        "posicao_x": 69,
+                        "posicao_y": 44
                     },
                     "posicaoMapaPx": {
-                        "posicao_x": 1250,
-                        "posicao_y": 550
+                        "posicao_x": 1040,
+                        "posicao_y": 590
                     },
                     "links": [
                         {
@@ -73,7 +73,7 @@
                         {
                             "nodeId": "img-1c",
                             "pitch": 0,
-                            "yaw": -110
+                            "yaw": -160
                         }
                     ],
                     "markers": [
@@ -106,18 +106,18 @@
                     "name": "Cozinha 2",
                     "url": "https://cdn.polyhaven.com/asset_img/primary/venice_sunset.png?height=760&quality=95",
                     "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 64
+                        "posicao_x": 57,
+                        "posicao_y": 80
                     },
                     "posicaoMapaPx": {
-                        "posicao_x": 550,
-                        "posicao_y": 800
+                        "posicao_x": 860,
+                        "posicao_y": 1150
                     },
                     "links": [
                         {
                             "nodeId": "img-1b",
                             "pitch": 0,
-                            "yaw": 70
+                            "yaw": 30
                         }
                     ],
                     "markers": [
