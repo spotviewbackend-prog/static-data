@@ -11,7 +11,7 @@
                 {
                     "id": "img-1a",
                     "name": "Sala",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/satara_night.png?height=760&quality=95",
+                    "url": "1.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 27,
                         "posicao_y": 35
@@ -55,7 +55,7 @@
                 {
                     "id": "img-1b",
                     "name": "Cozinha",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/lilienstein.png?height=760&quality=95",
+                    "url": "2.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 69,
                         "posicao_y": 44
@@ -104,7 +104,7 @@
                 {
                     "id": "img-1c",
                     "name": "Cozinha 2",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/venice_sunset.png?height=760&quality=95",
+                    "url": "3.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 57,
                         "posicao_y": 80
@@ -189,7 +189,7 @@
                 {
                     "id": "img-2a",
                     "name": "Banheiro",
-                    "url": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=1200",
+                    "url": "1.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 40,
                         "posicao_y": 17
@@ -233,7 +233,7 @@
                 {
                     "id": "img-2b",
                     "name": "Sacada",
-                    "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+                    "url": "2.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 63,
                         "posicao_y": 57
@@ -285,7 +285,7 @@
                 {
                     "id": "img-3a",
                     "name": "Quarto",
-                    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+                    "url": "1.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 30,
                         "posicao_y": 37
@@ -329,7 +329,7 @@
                 {
                     "id": "img-3b",
                     "name": "Corredor",
-                    "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63",
+                    "url": "3.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 70,
                         "posicao_y": 37
