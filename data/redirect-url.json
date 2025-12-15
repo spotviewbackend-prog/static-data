@@ -1,16 +1,16 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "urlPart": "c3d6a1e8-2f4b-49b9-9c8d-3d5e6f7a8b9c",
     "isSpace": true
   },
   {
-    "id": 2,
+    "id": "2",
     "urlPart": "c5d9e3f0-4f6a-4b8c-9d5e-5f6a7b8c9d0e",
     "isSpace": true
   },
   {
-    "id": 3,
+    "id": "3",
     "urlPart": "3f7c2b82-6f3e-4b58-9df3-1c98ea1f4c12",
     "isSpace": false
   }
