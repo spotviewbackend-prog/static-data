@@ -37,7 +37,7 @@
     "uf": "SP",
     "tamanho_m2": 250,
     "descricao": "Espaço comercial de alto padrão em localização privilegiada na Avenida Paulista. Dois andares com pé-direito duplo, ampla visibilidade e fluxo intenso de pessoas. Ideal para marca premium ou conceito store.",
-    "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
     "status": {
@@ -64,7 +64,7 @@
     "uf": "SP",
     "tamanho_m2": 180,
     "descricao": "Ponto comercial sofisticado ideal para restaurante ou café gourmet. Ambiente com decoração moderna, área externa e cozinha industrial completa. Localizado no coração dos Jardins.",
-    "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
+    "imagem_capa": "1.jpg",
     "tipo": "Comercial",
     "subtipo": "Sala Comercial",
     "status": {
@@ -199,7 +199,7 @@
     "uf": "SP",
     "tamanho_m2": 120,
     "descricao": "Excelente ponto comercial no centro da cidade, com grande fluxo de pedestres. Ideal para varejo, restaurante ou serviços. Localização privilegiada próxima ao terminal de ônibus.",
-    "imagem_capa": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
     "status": {
@@ -226,7 +226,7 @@
     "uf": "SP",
     "tamanho_m2": 85,
     "descricao": "Espaço perfeito para restaurante, cafeteria ou lanchonete. Área nobre de Itapecerica, com estacionamento e fácil acesso. Infraestrutura para cozinha comercial.",
-    "imagem_capa": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Restaurante",
     "status": {
@@ -253,7 +253,7 @@
     "uf": "SP",
     "tamanho_m2": 65,
     "descricao": "Sala comercial em edifício moderno, ideal para escritório, consultório ou clínica. Recepção compartilhada, banheiros privativos e ar condicionado.",
-    "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Escritório",
     "status": {
@@ -280,7 +280,7 @@
     "uf": "SP",
     "tamanho_m2": 45,
     "descricao": "Sala comercial em edifício moderno, ideal para escritório, consultório ou clínica. Recepção compartilhada, banheiros privativos e ar condicionado.",
-    "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Escritório",
     "status": {
@@ -307,7 +307,7 @@
     "uf": "SP",
     "tamanho_m2": 40,
     "descricao": "Sala comercial em edifício moderno, ideal para escritório, consultório ou clínica. Recepção compartilhada, banheiros privativos e ar condicionado.",
-    "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Escritório",
     "status": {
@@ -334,7 +334,7 @@
     "uf": "SP",
     "tamanho_m2": 100,
     "descricao": "Sala comercial em edifício moderno, ideal para escritório, consultório ou clínica. Recepção compartilhada, banheiros privativos e ar condicionado.",
-    "imagem_capa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Escritório",
     "status": {
@@ -361,7 +361,7 @@
     "uf": "SP",
     "tamanho_m2": 70,
     "descricao": "Perfeito para loja de roupas, calçados ou móveis. Vitrine ampla e grande visibilidade. Ótimo para showroom.",
-    "imagem_capa": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Galeria",
     "status": {
@@ -388,7 +388,7 @@
     "uf": "SP",
     "tamanho_m2": 150,
     "descricao": "Excelente localização na estrada principal. Ideal para mercado, farmácia ou padaria. Amplo estacionamento e fácil acesso para carga e descarga.",
-    "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+    "imagem_capa": "1.jpg",
     "tipo": "Comercial",
     "subtipo": "Loja",
     "status": {
@@ -415,7 +415,7 @@
     "uf": "SP",
     "tamanho_m2": 150,
     "descricao": "Excelente localização na estrada principal. Ideal para mercado, farmácia ou padaria. Amplo estacionamento e fácil acesso para carga e descarga.",
-    "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
     "status": {
@@ -442,7 +442,7 @@
     "uf": "SP",
     "tamanho_m2": 150,
     "descricao": "Excelente localização na estrada principal. Ideal para mercado, farmácia ou padaria. Amplo estacionamento e fácil acesso para carga e descarga.",
-    "imagem_capa": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+    "imagem_capa": "",
     "tipo": "Comercial",
     "subtipo": "Loja",
     "status": {
