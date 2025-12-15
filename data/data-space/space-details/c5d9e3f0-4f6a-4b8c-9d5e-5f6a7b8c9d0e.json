@@ -6,7 +6,7 @@
             "id": "andar-1",
             "andar": "T",
             "descricao": "Andar principal",
-            "planta_baixa_url": "planta_baixa_fullhd.png",
+            "planta_baixa_url": "T.png",
             "imagens360": [
                 {
                     "id": "img-1a",
@@ -184,7 +184,7 @@
             "id": "andar-2",
             "andar": "1",
             "descricao": "Sobreloja",
-            "planta_baixa_url": "planta_baixa_alta.png",
+            "planta_baixa_url": "1.png",
             "imagens360": [
                 {
                     "id": "img-2a",
@@ -280,7 +280,7 @@
             "id": "andar-3",
             "andar": "-1",
             "descricao": "Subsolo",
-            "planta_baixa_url": "planta_baixa_larga.png",
+            "planta_baixa_url": "-1.png",
             "imagens360": [
                 {
                     "id": "img-3a",
