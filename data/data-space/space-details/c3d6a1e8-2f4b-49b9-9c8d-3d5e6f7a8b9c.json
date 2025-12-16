@@ -1,195 +1,17 @@
 {
     "id": "c3d6a1e8-2f4b-49b9-9c8d-3d5e6f7a8b9c",
-    "total_andares": 3,
+    "total_andares": 1,
     "andares": [
         {
             "id": "andar-1",
-            "andar": "T",
-            "descricao": "Andar principal",
-            "planta_baixa_url": "planta_baixa_fullhd.png",
+            "andar": "1",
+            "descricao": "Loja",
+            "planta_baixa_url": "1.png",
             "imagens360": [
                 {
                     "id": "img-1a",
                     "name": "Sala",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/satara_night.png?height=760&quality=95",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 40
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 540,
-                        "posicao_y": 390
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1b",
-                            "pitch": 0,
-                            "yaw": 100
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polygon",
-                            "id": "1",
-                            "polygon": [
-                                [
-                                    6.2208,
-                                    0.0906
-                                ],
-                                [
-                                    0.0443,
-                                    0.1028
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "rgba(200, 0, 0, 0.2)",
-                                "stroke": "rgba(255, 0, 0, 0.8)",
-                                "strokeWidth": "2px",
-                                "strokeLinecap": "butt",
-                                "strokeLinejoin": "miter"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-1b",
-                    "name": "Cozinha",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/lilienstein.png?height=760&quality=95",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 65,
-                        "posicao_y": 52
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 1250,
-                        "posicao_y": 550
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1a",
-                            "pitch": 0,
-                            "yaw": -60
-                        },
-                        {
-                            "nodeId": "img-1c",
-                            "pitch": 0,
-                            "yaw": -110
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polyline",
-                            "id": "1",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(255, 0, 0, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-1c",
-                    "name": "Cozinha 2",
-                    "url": "https://cdn.polyhaven.com/asset_img/primary/venice_sunset.png?height=760&quality=95",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 64
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 550,
-                        "posicao_y": 800
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1b",
-                            "pitch": 0,
-                            "yaw": 70
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polygon",
-                            "id": "1",
-                            "polygon": [
-                                [
-                                    6.2208,
-                                    0.0906
-                                ],
-                                [
-                                    0.0443,
-                                    0.1028
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "rgba(200, 0, 0, 0.2)",
-                                "stroke": "rgba(247, 252, 0, 0.8)",
-                                "strokeWidth": "2px",
-                                "strokeLinecap": "butt",
-                                "strokeLinejoin": "miter"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "polyline",
-                            "id": "2",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(217, 255, 0, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "html",
-                            "id": "3",
-                            "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">1 m</div>",
-                            "opacity": 0.5,
-                            "visible": false,
-                            "position": {
-                                "yaw": 2.75,
-                                "pitch": 0.5
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "andar-2",
-            "andar": "1",
-            "descricao": "Sobreloja",
-            "planta_baixa_url": "planta_baixa_alta.png",
-            "imagens360": [
-                {
-                    "id": "img-2a",
-                    "name": "Banheiro",
-                    "url": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=1200",
+                    "url": "1.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 40,
                         "posicao_y": 17
@@ -200,7 +22,7 @@
                     },
                     "links": [
                         {
-                            "nodeId": "img-2b",
+                            "nodeId": "img-1b",
                             "pitch": 20,
                             "yaw": 0
                         }
@@ -231,9 +53,9 @@
                     ]
                 },
                 {
-                    "id": "img-2b",
-                    "name": "Sacada",
-                    "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+                    "id": "img-1b",
+                    "name": "Banheiro",
+                    "url": "2.jpg",
                     "posicaoPlantPorc": {
                         "posicao_x": 63,
                         "posicao_y": 57
@@ -244,7 +66,7 @@
                     },
                     "links": [
                         {
-                            "nodeId": "img-2a",
+                            "nodeId": "img-1a",
                             "pitch": 10,
                             "yaw": -20
                         }
@@ -273,79 +95,6 @@
                             "visible": false
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "id": "andar-3",
-            "andar": "-1",
-            "descricao": "Subsolo",
-            "planta_baixa_url": "planta_baixa_larga.png",
-            "imagens360": [
-                {
-                    "id": "img-3a",
-                    "name": "Quarto",
-                    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 37
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 100,
-                        "posicao_y": 100
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-3b",
-                            "pitch": 20,
-                            "yaw": 0
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polyline",
-                            "id": "1",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(28, 7, 216, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-3b",
-                    "name": "Corredor",
-                    "url": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 70,
-                        "posicao_y": 37
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 100,
-                        "posicao_y": 100
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-3a",
-                            "pitch": 20,
-                            "yaw": 0
-                        }
-                    ],
-                    "markers": []
                 }
             ]
         }
