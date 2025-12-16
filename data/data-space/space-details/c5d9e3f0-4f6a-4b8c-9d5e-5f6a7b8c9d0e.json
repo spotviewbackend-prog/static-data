@@ -29,26 +29,26 @@
                     ],
                     "markers": [
                         {
-                          "type": "polygon",
-                          "id": "1",
-                          "polygon": [
-                              [
-                                  6.2208,
-                                  0.0906
-                              ],
-                              [
-                                  0.0443,
-                                  0.1028
-                              ]
-                          ],
-                          "svgStyle": {
-                              "fill": "rgba(200, 0, 0, 0.2)",
-                              "stroke": "rgba(255, 0, 0, 0.8)",
-                              "strokeWidth": "2px",
-                              "strokeLinecap": "butt",
-                              "strokeLinejoin": "miter"
-                          },
-                          "visible": false
+                            "type": "polygon",
+                            "id": "1",
+                            "polygon": [
+                                [
+                                    6.2208,
+                                    0.0906
+                                ],
+                                [
+                                    0.0443,
+                                    0.1028
+                                ]
+                            ],
+                            "svgStyle": {
+                                "fill": "rgba(200, 0, 0, 0.2)",
+                                "stroke": "rgba(255, 0, 0, 0.8)",
+                                "strokeWidth": "2px",
+                                "strokeLinecap": "butt",
+                                "strokeLinejoin": "miter"
+                            },
+                            "visible": false
                         }
                     ]
                 },
@@ -219,7 +219,7 @@
                                 ],
                                 [
                                     -1.1,
-                                    0.6,
+                                    0.6
                                 ]
                             ],
                             "svgStyle": {
