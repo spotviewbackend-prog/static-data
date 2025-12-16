@@ -1,424 +1,464 @@
 {
-    "id": "c5d9e3f0-4f6a-4b8c-9d5e-5f6a7b8c9d0e",
-    "total_andares": 3,
-    "andares": [
+  "id": "c5d9e3f0-4f6a-4b8c-9d5e-5f6a7b8c9d0e",
+  "total_andares": 3,
+  "andares": [
+    {
+      "id": "andar-1",
+      "andar": "T",
+      "descricao": "Andar principal",
+      "planta_baixa_url": "T.png",
+      "imagens360": [
         {
-            "id": "andar-1",
-            "andar": "T",
-            "descricao": "Andar principal",
-            "planta_baixa_url": "T.png",
-            "imagens360": [
-                {
-                    "id": "img-1a",
-                    "name": "Sala",
-                    "url": "1.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 27,
-                        "posicao_y": 35
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 400,
-                        "posicao_y": 420
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1b",
-                            "pitch": 0,
-                            "yaw": 100
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polygon",
-                            "id": "1",
-                            "polygon": [
-                                [
-                                    6.2208,
-                                    0.0906
-                                ],
-                                [
-                                    0.0443,
-                                    0.1028
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "rgba(200, 0, 0, 0.2)",
-                                "stroke": "rgba(255, 0, 0, 0.8)",
-                                "strokeWidth": "2px",
-                                "strokeLinecap": "butt",
-                                "strokeLinejoin": "miter"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-1b",
-                    "name": "Cozinha",
-                    "url": "2.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 69,
-                        "posicao_y": 44
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 1040,
-                        "posicao_y": 590
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1a",
-                            "pitch": 0,
-                            "yaw": -60
-                        },
-                        {
-                            "nodeId": "img-1c",
-                            "pitch": 0,
-                            "yaw": -160
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polyline",
-                            "id": "1",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(255, 0, 0, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-1c",
-                    "name": "Cozinha 2",
-                    "url": "3.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 57,
-                        "posicao_y": 80
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 860,
-                        "posicao_y": 1150
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-1b",
-                            "pitch": 0,
-                            "yaw": 30
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polygon",
-                            "id": "1",
-                            "polygon": [
-                                [
-                                    6.2208,
-                                    0.0906
-                                ],
-                                [
-                                    0.0443,
-                                    0.1028
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "rgba(200, 0, 0, 0.2)",
-                                "stroke": "rgba(247, 252, 0, 0.8)",
-                                "strokeWidth": "2px",
-                                "strokeLinecap": "butt",
-                                "strokeLinejoin": "miter"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "polyline",
-                            "id": "2",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(217, 255, 0, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "html",
-                            "id": "3",
-                            "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">1 m</div>",
-                            "opacity": 0.5,
-                            "visible": false,
-                            "position": {
-                                "yaw": 2.75,
-                                "pitch": 0.5
-                            }
-                        },
-                        {
-                            "type": "polyline",
-                            "id": "4",
-                            "polyline": [
-                                [
-                                    -1.1,
-                                    -0.42
-                                ],
-                                [
-                                    0.35,
-                                    -0.75
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(0, 68, 255, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "html",
-                            "id": "5",
-                            "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">2 m</div>",
-                            "opacity": 0.5,
-                            "visible": false,
-                            "position": {
-                                "yaw": -0.725,
-                                "pitch": -0.65
-                            }
-                        },
-                        {
-                            "type": "polyline",
-                            "id": "6",
-                            "polyline": [
-                                [
-                                    -1.1,
-                                    -0.42
-                                ],
-                                [
-                                    -1.1,
-                                    0.6
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(215, 253, 0, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        },
-                        {
-                            "type": "html",
-                            "id": "7",
-                            "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">3,5 m</div>",
-                            "opacity": 0.5,
-                            "visible": false,
-                            "position": {
-                                "yaw": -1.05,
-                                "pitch": 0.1
-                            }
-                        }
-                    ]
-                }
-            ]
+          "id": "img-1a",
+          "name": "Sala",
+          "url": "1.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 27,
+            "posicao_y": 35
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 400,
+            "posicao_y": 420
+          },
+          "links": [
+            {
+              "nodeId": "img-1b",
+              "pitch": 0,
+              "yaw": 100
+            }
+          ],
+          "markers": [
+            {
+              "type": "polygon",
+              "id": "1",
+              "polygon": [
+                [
+                  6.2208,
+                  0.0906
+                ],
+                [
+                  0.0443,
+                  0.1028
+                ]
+              ],
+              "svgStyle": {
+                "fill": "rgba(200, 0, 0, 0.2)",
+                "stroke": "rgba(255, 0, 0, 0.8)",
+                "strokeWidth": "2px",
+                "strokeLinecap": "butt",
+                "strokeLinejoin": "miter"
+              },
+              "visible": false
+            }
+          ]
         },
         {
-            "id": "andar-2",
-            "andar": "1",
-            "descricao": "Sobreloja",
-            "planta_baixa_url": "1.png",
-            "imagens360": [
-                {
-                    "id": "img-2a",
-                    "name": "Banheiro",
-                    "url": "1.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 40,
-                        "posicao_y": 17
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 850,
-                        "posicao_y": 400
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-2b",
-                            "pitch": 20,
-                            "yaw": 0
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polygon",
-                            "id": "1",
-                            "polygon": [
-                                [
-                                    6.2208,
-                                    0.0906
-                                ],
-                                [
-                                    0.0443,
-                                    0.1028
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "rgba(101, 231, 123, 0.2)",
-                                "stroke": "rgba(9, 255, 0, 1)",
-                                "strokeWidth": "2px",
-                                "strokeLinecap": "butt",
-                                "strokeLinejoin": "miter"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-2b",
-                    "name": "Sacada",
-                    "url": "2.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 63,
-                        "posicao_y": 57
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 1450,
-                        "posicao_y": 1450
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-2a",
-                            "pitch": 10,
-                            "yaw": -20
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polyline",
-                            "id": "1",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(0, 255, 42, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        }
-                    ]
-                }
-            ]
+          "id": "img-1b",
+          "name": "Cozinha",
+          "url": "2.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 69,
+            "posicao_y": 44
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 1040,
+            "posicao_y": 590
+          },
+          "links": [
+            {
+              "nodeId": "img-1a",
+              "pitch": 0,
+              "yaw": -60
+            },
+            {
+              "nodeId": "img-1c",
+              "pitch": 0,
+              "yaw": -160
+            }
+          ],
+          "markers": [
+            {
+              "type": "polyline",
+              "id": "1",
+              "polyline": [
+                [
+                  2.4,
+                  0.4
+                ],
+                [
+                  3,
+                  0.54
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(255, 0, 0, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            }
+          ]
         },
         {
-            "id": "andar-3",
-            "andar": "-1",
-            "descricao": "Subsolo",
-            "planta_baixa_url": "-1.png",
-            "imagens360": [
-                {
-                    "id": "img-3a",
-                    "name": "Quarto",
-                    "url": "1.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 30,
-                        "posicao_y": 37
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 100,
-                        "posicao_y": 100
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-3b",
-                            "pitch": 20,
-                            "yaw": 0
-                        }
-                    ],
-                    "markers": [
-                        {
-                            "type": "polyline",
-                            "id": "1",
-                            "polyline": [
-                                [
-                                    2.4,
-                                    0.4
-                                ],
-                                [
-                                    3,
-                                    0.54
-                                ]
-                            ],
-                            "svgStyle": {
-                                "fill": "none",
-                                "stroke": "rgba(28, 7, 216, 0.8)",
-                                "strokeWidth": "5px",
-                                "strokeLinecap": "round",
-                                "strokeLinejoin": "round"
-                            },
-                            "visible": false
-                        }
-                    ]
-                },
-                {
-                    "id": "img-3b",
-                    "name": "Corredor",
-                    "url": "3.jpg",
-                    "posicaoPlantPorc": {
-                        "posicao_x": 70,
-                        "posicao_y": 37
-                    },
-                    "posicaoMapaPx": {
-                        "posicao_x": 100,
-                        "posicao_y": 100
-                    },
-                    "links": [
-                        {
-                            "nodeId": "img-3a",
-                            "pitch": 20,
-                            "yaw": 0
-                        }
-                    ],
-                    "markers": []
-                }
-            ]
+          "id": "img-1c",
+          "name": "Cozinha 2",
+          "url": "3.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 57,
+            "posicao_y": 80
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 860,
+            "posicao_y": 1150
+          },
+          "links": [
+            {
+              "nodeId": "img-1b",
+              "pitch": 0,
+              "yaw": 30
+            }
+          ],
+          "markers": [
+            {
+              "type": "polygon",
+              "id": "1",
+              "polygon": [
+                [
+                  6.2208,
+                  0.0906
+                ],
+                [
+                  0.0443,
+                  0.1028
+                ],
+                [
+                  0.2322,
+                  0.0849
+                ],
+                [
+                  0.4531,
+                  0.0387
+                ],
+                [
+                  0.5022,
+                  -0.0056
+                ],
+                [
+                  0.4587,
+                  -0.0396
+                ],
+                [
+                  0.252,
+                  -0.0453
+                ],
+                [
+                  0.0434,
+                  -0.0575
+                ],
+                [
+                  6.1302,
+                  -0.0623
+                ],
+                [
+                  6.0094,
+                  -0.0169
+                ],
+                [
+                  6.0471,
+                  0.032
+                ],
+                [
+                  6.2208,
+                  0.0906
+                ]
+              ],
+              "svgStyle": {
+                "fill": "rgba(200, 0, 0, 0.2)",
+                "stroke": "rgba(247, 252, 0, 0.8)",
+                "strokeWidth": "2px",
+                "strokeLinecap": "butt",
+                "strokeLinejoin": "miter"
+              },
+              "visible": false
+            },
+            {
+              "type": "polyline",
+              "id": "2",
+              "polyline": [
+                [
+                  2.4,
+                  0.4
+                ],
+                [
+                  3,
+                  0.54
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(217, 255, 0, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            },
+            {
+              "type": "html",
+              "id": "3",
+              "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">1 m</div>",
+              "opacity": 0.5,
+              "visible": false,
+              "position": {
+                "yaw": 2.75,
+                "pitch": 0.5
+              }
+            },
+            {
+              "type": "polyline",
+              "id": "4",
+              "polyline": [
+                [
+                  -1.1,
+                  -0.42
+                ],
+                [
+                  0.35,
+                  -0.75
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(0, 68, 255, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            },
+            {
+              "type": "html",
+              "id": "5",
+              "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">2 m</div>",
+              "opacity": 0.5,
+              "visible": false,
+              "position": {
+                "yaw": -0.725,
+                "pitch": -0.65
+              }
+            },
+            {
+              "type": "polyline",
+              "id": "6",
+              "polyline": [
+                [
+                  -1.1,
+                  -0.42
+                ],
+                [
+                  -1.1,
+                  0.6
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(215, 253, 0, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            },
+            {
+              "type": "html",
+              "id": "7",
+              "html": "<div style=\"background-color: #1a1a1a; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 10px; transform: translate(-50%, -50%);\">3,5 m</div>",
+              "opacity": 0.5,
+              "visible": false,
+              "position": {
+                "yaw": -1.05,
+                "pitch": 0.1
+              }
+            }
+          ]
         }
-    ],
-    "imagens": [
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
-    ]
+      ]
+    },
+    {
+      "id": "andar-2",
+      "andar": "1",
+      "descricao": "Sobreloja",
+      "planta_baixa_url": "1.png",
+      "imagens360": [
+        {
+          "id": "img-2a",
+          "name": "Banheiro",
+          "url": "1.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 40,
+            "posicao_y": 17
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 850,
+            "posicao_y": 400
+          },
+          "links": [
+            {
+              "nodeId": "img-2b",
+              "pitch": 20,
+              "yaw": 0
+            }
+          ],
+          "markers": [
+            {
+              "type": "polygon",
+              "id": "1",
+              "polygon": [
+                [
+                  6.2208,
+                  0.0906
+                ],
+                [
+                  0.0443,
+                  0.1028
+                ]
+              ],
+              "svgStyle": {
+                "fill": "rgba(101, 231, 123, 0.2)",
+                "stroke": "rgba(9, 255, 0, 1)",
+                "strokeWidth": "2px",
+                "strokeLinecap": "butt",
+                "strokeLinejoin": "miter"
+              },
+              "visible": false
+            }
+          ]
+        },
+        {
+          "id": "img-2b",
+          "name": "Sacada",
+          "url": "2.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 63,
+            "posicao_y": 57
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 1450,
+            "posicao_y": 1450
+          },
+          "links": [
+            {
+              "nodeId": "img-2a",
+              "pitch": 10,
+              "yaw": -20
+            }
+          ],
+          "markers": [
+            {
+              "type": "polyline",
+              "id": "1",
+              "polyline": [
+                [
+                  2.4,
+                  0.4
+                ],
+                [
+                  3,
+                  0.54
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(0, 255, 42, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "andar-3",
+      "andar": "-1",
+      "descricao": "Subsolo",
+      "planta_baixa_url": "-1.png",
+      "imagens360": [
+        {
+          "id": "img-3a",
+          "name": "Quarto",
+          "url": "1.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 30,
+            "posicao_y": 37
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 100,
+            "posicao_y": 100
+          },
+          "links": [
+            {
+              "nodeId": "img-3b",
+              "pitch": 20,
+              "yaw": 0
+            }
+          ],
+          "markers": [
+            {
+              "type": "polyline",
+              "id": "1",
+              "polyline": [
+                [
+                  2.4,
+                  0.4
+                ],
+                [
+                  3,
+                  0.54
+                ]
+              ],
+              "svgStyle": {
+                "fill": "none",
+                "stroke": "rgba(28, 7, 216, 0.8)",
+                "strokeWidth": "5px",
+                "strokeLinecap": "round",
+                "strokeLinejoin": "round"
+              },
+              "visible": false
+            }
+          ]
+        },
+        {
+          "id": "img-3b",
+          "name": "Corredor",
+          "url": "3.jpg",
+          "posicaoPlantPorc": {
+            "posicao_x": 70,
+            "posicao_y": 37
+          },
+          "posicaoMapaPx": {
+            "posicao_x": 100,
+            "posicao_y": 100
+          },
+          "links": [
+            {
+              "nodeId": "img-3a",
+              "pitch": 20,
+              "yaw": 0
+            }
+          ],
+          "markers": []
+        }
+      ]
+    }
+  ],
+  "imagens": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ]
 }
