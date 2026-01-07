@@ -24,6 +24,10 @@
     "andar": "10",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009508
   },
   {
@@ -51,6 +55,10 @@
     "andar": "4",
     "valor_aluguel": 2000,
     "valor_iptu": 130,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009586
   },
   {
@@ -78,7 +86,11 @@
     "andar": "1",
     "valor_aluguel": 3000,
     "valor_iptu": 180,
-     "timestamp": 1764074835
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Médio",
+    "timestamp": 1764074835
   },
   {
     "id": "d4e7b2c9-3a5e-4f8b-8c7d-4e6f8a9b0c1d",
@@ -105,6 +117,10 @@
     "andar": "T",
     "valor_aluguel": 4200,
     "valor_iptu": 500,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009626
   },
   {
@@ -132,6 +148,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 200,
+    "valor_cond": 90,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009640
   },
   {
@@ -159,6 +179,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009662
   },
   {
@@ -186,6 +210,10 @@
     "andar": "1",
     "valor_aluguel": 5000,
     "valor_iptu": 120,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009677
   },
   {
@@ -213,6 +241,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 90,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009694
   },
   {
@@ -240,6 +272,10 @@
     "andar": "1",
     "valor_aluguel": 5000,
     "valor_iptu": 120,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009710
   },
   {
@@ -267,6 +303,10 @@
     "andar": "-1",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009723
   },
   {
@@ -294,6 +334,10 @@
     "andar": "1",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009735
   },
   {
@@ -321,6 +365,10 @@
     "andar": "2",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009746
   },
   {
@@ -348,6 +396,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009761
   },
   {
@@ -375,6 +427,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009774
   },
   {
@@ -402,6 +458,10 @@
     "andar": "T",
     "valor_aluguel": 4000,
     "valor_iptu": 230,
+    "valor_cond": 150,
+    "vagas": 1,
+    "fluxo_p": "Médio",
+    "fluxo_v": "Médio",
     "timestamp": 1764940687
   },
   {
@@ -429,6 +489,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009808
   },
   {
@@ -456,6 +520,10 @@
     "andar": "T",
     "valor_aluguel": 5000,
     "valor_iptu": 230,
+    "valor_cond": null,
+    "vagas": null,
+    "fluxo_p": "Baixo",
+    "fluxo_v": "Baixo",
     "timestamp": 1764009819
   }
 ]
